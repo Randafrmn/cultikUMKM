@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultik</title>
+    <meta name="description" content="Sebuah Aplikasi Budaya Batik">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <a href="#content" class="skip-content">Skip to Content?</a>
+
+    <header>
+        <nav class="nav-bar">
+            <div class="container">
+                <div class="nav-content">
+                    <div class="brand">
+                        <h1>Culture Batik</h1>
+                    </div>
+                    <div class="menu">
+                        <ul>
+                            <li><a href="/">Home</a></li>
+                        </ul>
+                    </div>
+                    <div class="hamburger">
+                        <button id="hamburger">☰</button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <nav id="drawer" class="nav-bar-mobile">
+        <div class="menu-mobile">
+            <ul>
+                <li><a href="/">Home</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="hero-container">
+        <img src="images/heros/hero-batik.jpg" alt="Hero Image" class="hero-image">
+        <div class="hero-content">
+            <h1 class="hero-title">Daerah Penghasil Batik</h1>
+            <button id="scrollButton" class="hero-btn">Let's Go</button>
+        </div>
+    </div>
+
+    <main id="content">
+        <section class="main-content">
+            <div class="container main">
+                <h1 class="section-title"></h1>
+                <div class="batik-list" id="batik-list"></div>
+                <div class="detail-container" id="detail-container"></div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

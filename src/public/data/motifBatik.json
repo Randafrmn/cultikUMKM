@@ -1,0 +1,82 @@
+{
+    "motifBatiks": [
+    {
+        "motif_batik": "images/motif/parang.jpeg",
+        "nama_batik": "Parang",
+        "sejarah": "Batik Parang berasal dari daerah Yogyakarta dan Solo, namun sudah tersebar merata di seluruh Jawa. Batik Parang merupakan motif batik tertua di Indonesia. Batik ini sudah ada sejak zaman Keraton Mataram Kartasura. Batik dengan motif Parang diciptakan oleh salah satu bangsawan Kerajaan Mataram Islam yaitu Panembahan Senopati. Panembahan Senopati memiliki nama lain Sutowijoyo yang merupakan putra dari Ki Gede Pemanahan selaku pendiri dari Kerajaan Mataram Islam. Itulah mengapa, pada saat itu batik Parang hanya boleh digunakan para raja dan keturunannya saja. Seiring waktu, batik ini dapat digunakan oleh masyarakat sekitar keraton kemudian disebar luaskan ke masyarakat biasa.",
+        "makna_batik": "Parang memiliki arti lereng atau tebing sehingga batik ini bermotif miring dan berbentuk diagonal menyerupai huruf “S”  tanpa terputus-putus. Berdasarkan motifnya batik motif Parang memiliki makna agar tidak mudah menyerah untuk mengarungi bahtera kehidupan meskipun banyak lika-liku yang harus dilalui. Selain itu juga harus terus berupaya untuk memperbaiki diri agar lebih baik."
+    },
+    {
+        "motif_batik": "images/motif/kawung.jpg",
+        "nama_batik": "Kawung",
+        "sejarah": "Motif batik kawung merupakan salah satu motif batik tua yang berasal dari Pulau Jawa. Motif batik Kawung berasal dari Yogyakarta dan mulanya tidak bisa sembarangan digunakan. Kain batik dengan motif ini hanya boleh dikenakan oleh golongan sentana dalem, atau orang tertentu yang berhubungan dengan keluarga Raja. Motif batik kawung berbentuk seperti irisan buah kawung yang dikenal juga dengan buah kolang-kaling atau atau buah aren. Jika dilihat motifnya akan terlihat bentuk simetris dengan bulatan-bulatan yang tersusun secara geometris. Motif ini banyak memiliki variasi baik dari corak lengkung dan hiasan, maupun pewarnaannya. Setelah mengalami beberapa modifikasi, akhirnya motif batik kawung bisa digunakan masyarakat secara bebas.",
+        "makna_batik": "Makna yang tersirat dari batik Kawung ini adalah harapan untuk yang menggunakannya agar selalu ingat dari mana mereka berasal. Batik ini akan mencerminkan makna kesucian kemurnian serta kesempurnaan. Manusia yang mengenakan batik Kawung, diharapkan menjadi pribadi yang unggul dan ideal oleh karenanya filosofi batik Kawung ini memang terkesan suci dan sakral."
+    },
+    {
+        "motif_batik": "images/motif/megamend.png",
+        "nama_batik": "Mega Mendung",
+        "sejarah": "Motif Mega Mendung berasal dari Cirebon, dipengaruhi oleh budaya Tionghoa yang datang ke Indonesia pada abad ke-16. Motif ini sering ditemukan di karya seni batik Cirebon.",
+        "makna_batik": "Mega Mendung melambangkan kesabaran, ketenangan, dan keteguhan hati. Bentuk awan yang bergulung-gulung merepresentasikan kondisi hati yang tenang meskipun menghadapi situasi yang sulit."
+    },
+    {
+        "motif_batik": "images/motif/truntum.jpg",
+        "nama_batik": "Truntum",
+        "sejarah": "Motif Truntum diciptakan oleh Kanjeng Ratu Kencana, permaisuri Sunan Paku Buwana III dari Solo, pada abad ke-18 sebagai simbol cinta dan kesetiaan dalam pernikahan.",
+        "makna_batik": "Truntum melambangkan cinta yang tumbuh kembali dan kesetiaan. Pola bintang-bintang kecil yang tersebar melambangkan cinta yang selalu menerangi dan tak pernah padam."
+    },
+    {
+        "motif_batik": "images/motif/sidoasih.jpg",
+        "nama_batik": "Sido Asih",
+        "sejarah": "Motif Sido Asih berasal dari Solo dan Yogyakarta, sering digunakan dalam upacara pernikahan untuk mendoakan pengantin dengan harapan akan hidup harmonis dan penuh kasih.",
+        "makna_batik": "Sido Asih melambangkan cinta kasih yang abadi dan kehidupan yang harmonis. Polanya mengandung makna harapan agar pemakainya selalu hidup dalam kasih sayang dan kedamaian."
+    },
+    {
+        "motif_batik": "images/motif/tambal.jpeg",
+        "nama_batik": "Tambal",
+        "sejarah": "Motif Tambal berasal dari Yogyakarta dan sering digunakan untuk membuat kain penutup. Nama 'Tambal' sendiri berarti 'menambal' yang merefleksikan harapan untuk memperbaiki kehidupan.",
+        "makna_batik": "Motif Tambal melambangkan harapan dan perbaikan dalam hidup. Kombinasi berbagai motif dalam satu kain menggambarkan kebersamaan dan keanekaragaman."
+    },
+    {
+        "motif_batik": "images/motif/mukti.jpg",
+        "nama_batik": "Sidomukti",
+        "sejarah": "Batik Sidomukti adalah motif batik yang berasal dari Solo dan Yogyakarta. Motif ini sering digunakan dalam upacara pernikahan Jawa untuk mendoakan kebahagiaan dan kemakmuran bagi pengantin.",
+        "makna_batik": "Sidomukti melambangkan kemakmuran, kebahagiaan, dan kehidupan yang mulia. Pola geometrisnya merepresentasikan harapan akan stabilitas dan keberuntungan."
+    },
+    {
+        "motif_batik": "images/motif/ceplok.jpeg",
+        "nama_batik": "Ceplok",
+        "sejarah": "Motif Ceplok adalah salah satu motif batik klasik yang ditemukan di seluruh Jawa. Bentuknya yang simetris berasal dari pengaruh geometris Hindu-Buddha.",
+        "makna_batik": "Motif Ceplok melambangkan keselarasan dan keseimbangan. Polanya yang teratur dan simetris mengajarkan tentang harmoni dalam kehidupan."
+    },
+    {
+        "motif_batik": "images/motif/gurda.jpg",
+        "nama_batik": "Gurda",
+        "sejarah": "Motif Gurda terinspirasi dari bentuk sayap burung Garuda, simbol kekuatan dan keagungan. Motif ini sering digunakan di keraton Yogyakarta dan Solo.",
+        "makna_batik": "Gurda melambangkan kekuasaan dan keberanian. Bentuk sayap Garuda yang megah mencerminkan semangat kepemimpinan dan keagungan."
+    },
+    {
+        "motif_batik": "images/motif/pastel.jpeg",
+        "nama_batik": "Pastel",
+        "sejarah": "Motif Pastel adalah batik modern yang terinspirasi dari warna-warna lembut pastel. Dikembangkan oleh pengrajin di Pekalongan untuk pasar anak muda.",
+        "makna_batik": "Motif Pastel melambangkan keceriaan dan kreativitas. Warna-warna lembutnya merefleksikan semangat muda dan inovasi."
+    },
+    {
+        "motif_batik": "images/motif/lereng.jpeg",
+        "nama_batik": "Lereng",
+        "sejarah": "Motif Lereng berasal dari daerah Solo dan Yogyakarta. Motif ini sering digunakan dalam kain batik untuk acara formal seperti pernikahan dan upacara adat.",
+        "makna_batik": "Motif Lereng melambangkan keteguhan dan ketenangan. Pola garis miringnya menyerupai lereng gunung yang stabil dan kokoh."
+    },
+    {
+        "motif_batik": "images/motif/palembang.jpg",
+        "nama_batik": "Palembang",
+        "sejarah": "Batik Palembang memiliki motif yang kaya dengan warna-warna cerah dan pola yang rumit, mencerminkan kebudayaan Melayu dan pengaruh Tionghoa.",
+        "makna_batik": "Motif Palembang melambangkan kemakmuran dan kebahagiaan. Warna-warna cerah dan pola yang rumit mencerminkan keragaman dan kekayaan budaya."
+    },
+    {
+        "motif_batik": "images/motif/sekarja.jpeg",
+        "nama_batik": "Sekar Jagad",
+        "sejarah": "Motif Sekar Jagad adalah motif batik dari Yogyakarta yang terkenal dengan pola yang kompleks. Nama 'Sekar Jagad' berarti 'Bunga Dunia'.",
+        "makna_batik": "Sekar Jagad melambangkan keindahan dan keragaman dunia. Pola yang rumit dan beraneka ragam merefleksikan keunikan dan keindahan setiap bagian dari dunia."
+    }
+    ]
+  }
